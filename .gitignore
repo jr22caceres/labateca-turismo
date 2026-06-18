@@ -10,3 +10,10 @@ Thumbs.db
 node_modules/
 fotos-originales/
 fotos-web/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
